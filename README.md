@@ -86,4 +86,4 @@ Returns in-memory list of active orders.
 **Abhay Mankari**
 📧 [mankari.abhay@gmail.com](mailto:mankari.abhay@gmail.com)
 🐙 [GitHub](https://github.com/MkAbhay)
-💼 [LinkedIn](https://www.linkedin.com/in/abhaymankari)
+💼 [LinkedIn](https://www.linkedin.com/in/abhay-mankari-112b66246/)
